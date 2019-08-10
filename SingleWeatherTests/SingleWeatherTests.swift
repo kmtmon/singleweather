@@ -20,6 +20,6 @@ class SingleWeatherTests: XCTestCase {
     }
 
     func testExample() {
-        XCTAssertEqual(1, 1)
+        XCTAssertEqual(1, 2)
     }
 }
